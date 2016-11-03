@@ -4,4 +4,4 @@ Simple JS program that creates a new stream. This new stream will split the inpu
 
 To run:
 
-node patternMatch -p, --pattern <pattern>
+node patternMatch -p, --pattern < pattern >
